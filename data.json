@@ -1,0 +1,14 @@
+{
+  "apiKey": "sk-Hzq0cskSRNDGaIV196F42906C0Ea4125B38782B81d006bC4",
+  "defaultChatFrontmatter": "---\nsystem_commands: ['I am a helpful assistant.']\ntemperature: 0\ntop_p: 1\nmax_tokens: 512\npresence_penalty: 1\nfrequency_penalty: 1\nstream: true\nstop: null\nn: 1\nmodel: gpt-3.5-turbo\n---",
+  "defaultApiUrl": "https://burn.hair/v1/chat/completions",
+  "stream": true,
+  "chatTemplateFolder": "ChatGPT_MD/templates",
+  "chatFolder": "ChatGPT_MD/chats",
+  "generateAtCursor": false,
+  "autoInferTitle": false,
+  "dateFormat": "YYYY-MM-DD",
+  "headingLevel": 2,
+  "inferTitleLanguage": "Chinese",
+  "defaultModel": "gpt-4-0125-preview"
+}

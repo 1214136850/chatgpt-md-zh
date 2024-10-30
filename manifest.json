@@ -1,0 +1,9 @@
+{
+	"id": "chatgpt-md-zh",
+	"name": "ChatGPT MD 汉化版",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "ChatGPT MD 的汉化版本，支持自定义 API 地址",
+	"author": "送钰",
+	"isDesktopOnly": false
+}

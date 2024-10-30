@@ -1,0 +1,7 @@
+{
+	"name": "chatgpt-md-zh",
+	"version": "1.0.0",
+	"description": "ChatGPT MD 的汉化版本，支持自定义 API 地址",
+	"author": "你的名字",
+	"license": "MIT"
+}
